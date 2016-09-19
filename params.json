@@ -1,0 +1,6 @@
+{
+  "name": "Form builder",
+  "tagline": "form builder interface for creating web forms",
+  "body": "#Form Builder\r\neasily create online web forms and collect your data into mysql/mongo or other database/storage.\r\nthis **form builder** is based on the formtitan [online form builder](https://formtitan.com) product and can be used for any purpose.\r\nplease be nice and send some feedbacks, we will also be happy to give support and hear your ideas about what we did and how we can improve.\r\nlooking fwd to hear back from you.\r\nbuilding online forms never been easier.\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
